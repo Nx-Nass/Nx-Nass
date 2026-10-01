@@ -1,7 +1,3 @@
-# Hi, I'm Nasser
-
-I develop **NASSCAD**, a browser-based parametric 3D CAD application that processes your models locally.
-
 ## NASSCAD
 
 3D modeling, 2D sketching, STEP and IFC import/export, and model preparation for 3D printing.
