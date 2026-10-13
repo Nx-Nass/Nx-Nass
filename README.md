@@ -4,7 +4,7 @@
 
 **[Try it](https://www.nasscad.com/) · [View the project](https://github.com/Nx-Nass/NassCAD) · [Download](https://github.com/Nx-Nass/NassCAD/releases) · [Report an issue](https://github.com/Nx-Nass/NassCAD/issues)**
 
-- **4.7.0 — MEDUSA**: current version, with a local engine required for boolean operations.
+- **4.7.0 — current**: browser and Windows desktop editions. Boolean operations run in the browser with Manifold WASM; the Windows edition includes MEDUSA for native processing.
 - **[4.2.7 — classic](https://github.com/Nx-Nass/NassCAD/releases/tag/v4.2.7)**: earlier standalone version in a single HTML file.
 
 Free for personal, non-commercial, and educational use under the [project license](https://github.com/Nx-Nass/NassCAD/blob/main/LICENSE).
